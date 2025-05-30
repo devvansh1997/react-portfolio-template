@@ -1,1 +1,144 @@
-{"name":"Chetan","headerTaglineOne":"Hello 👋","headerTaglineTwo":"I'm Chetan Verma - curious","headerTaglineThree":"designer and devloper","headerTaglineFour":" based in New Delhi, India.","showCursor":true,"showBlog":true,"darkMode":true,"showResume":true,"socials":[{"id":"1","title":"Github","link":"https://github.com/chetanverma16"},{"id":"2","title":"LinkedIn","link":"https://www.linkedin.com/in/chetanverma7/"},{"id":"3","title":"Twitter","link":"https://twitter.com/realchetanverma"},{"id":"4","title":"Blog","link":"https://blog.chetanverma.com/"},{"id":"5","title":"Email","link":"mailto:hello@chetanverma.com"}],"projects":[{"id":"1","title":"Project One Test","description":"Web Design","imageSrc":"https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"2","title":"Project Two","description":"Web Development","imageSrc":"https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"3","title":"Project Three","description":"Design","imageSrc":"https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"4","title":"Project Four","description":"Marketing","imageSrc":"https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"5","title":"Project Five","description":"Development","imageSrc":"https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"6","title":"Project Six","description":"Design & Development","imageSrc":"https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"}],"services":[{"id":"1","title":"Art Direction","description":"We help with the creation and development of online advertising ideas, with particular focus on their visual appearance."},{"id":"2","title":"Branding","description":"We design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."},{"id":"3","title":"Web Design","description":"We build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."},{"id":"4","title":"3D Design","description":"We combine creative design and technical skills to build striking 3D visualisations that bring your project to life."}],"aboutpara":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.","resume":{"tagline":"👋  I'm a software engineer, product designer.","description":"I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.","experiences":[{"id":"1","dates":"March 2022 - Present","type":"Full Time","position":"Frontend Engineer at X","bullets":"Bullet One, Bullet Two"},{"id":"d495c23b-4f65-479a-9b8a-cfbc1c089725","dates":"July 2020 - March 2022","type":"Full Time","position":"Frontend Engineer at X","bullets":"Worked on the frontend of a React application, Worked on the frontend of a React application"}],"education":{"universityName":"University X","universityDate":"2016-2020","universityPara":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"},"languages":["Javascript","HTML5","CSS","Python","Go"],"frameworks":["React","Typescript","NodeJs"],"others":["Figma","AdobeXD","AWS"]}}
+{
+  "name": "Devansh",
+  "headerTaglineOne": "Hello 👋",
+  "headerTaglineTwo": "I'm Devansh Sharma",
+  "headerTaglineThree": "Machine Learning for Computer Vision ",
+  "headerTaglineFour": " based in Orlando, FL",
+  "showBlog": true,
+  "darkMode": true,
+  "socials": [
+    {
+      "id": "1",
+      "title": "Github",
+      "link": "https://github.com/devvansh1997"
+    },
+    {
+      "id": "2",
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/devanshsharma1997/"
+    },
+    {
+      "id": "3",
+      "title": "X",
+      "link": "https://x.com/peachstrike"
+    },
+    { "id": "4", "title": "Blog", "link": "" },
+    { "id": "5", "title": "Email", "link": "mailto:devansh_sharma@ucf.edu" }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "Project One Test",
+      "description": "Web Design",
+      "imageSrc": "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+      "url": "http://chetanverma.com/"
+    },
+    {
+      "id": "2",
+      "title": "Project Two",
+      "description": "Web Development",
+      "imageSrc": "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
+      "url": "http://chetanverma.com/"
+    },
+    {
+      "id": "3",
+      "title": "Project Three",
+      "description": "Design",
+      "imageSrc": "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+      "url": "http://chetanverma.com/"
+    },
+    {
+      "id": "4",
+      "title": "Project Four",
+      "description": "Marketing",
+      "imageSrc": "https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+      "url": "http://chetanverma.com/"
+    },
+    {
+      "id": "5",
+      "title": "Project Five",
+      "description": "Development",
+      "imageSrc": "https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+      "url": "http://chetanverma.com/"
+    },
+    {
+      "id": "6",
+      "title": "Project Six",
+      "description": "Design & Development",
+      "imageSrc": "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60",
+      "url": "http://chetanverma.com/"
+    }
+  ],
+  "services": [
+    {
+      "id": "1",
+      "title": "Art Direction",
+      "description": "We help with the creation and development of online advertising ideas, with particular focus on their visual appearance."
+    },
+    {
+      "id": "2",
+      "title": "Branding",
+      "description": "We design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."
+    },
+    {
+      "id": "3",
+      "title": "Web Design",
+      "description": "We build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."
+    },
+    {
+      "id": "4",
+      "title": "3D Design",
+      "description": "We combine creative design and technical skills to build striking 3D visualisations that bring your project to life."
+    }
+  ],
+  "aboutpara": "Hi, I’m Devansh Sharma—a computer-vision grad student at the University of Central Florida who loves turning messy, real-world data into working products. After earning an M.S. in Computer Science at Bowling Green State University, I spent a summer at Fellowship.AI building a pose-based activity-recognition pipeline that hit 96 % accuracy and shipped as an end-to-end demo. My research on evaluating object detectors for vulnerable pedestrians was accepted to IEEE ITSC 2024, reflecting my drive to push safety-critical CV forward. Beyond academia, I’ve spun up Kafka streams on AWS, orchestrated Airflow DAGs, and trained models that range from Extra Trees to YOLOv4. When I’m not experimenting with code, you’ll find me mentoring undergrads as a teaching assistant or hacking on open-source projects. I’m excited by problems that blend solid engineering with thoughtful ML—and I’m always looking for teams that value curiosity, clean code, and measurable impact.",
+  "resume": {
+    "tagline": "👋  I'm a machine learning engineer, product designer, and a history buff.",
+    "description": "I’ve built an end-to-end pose-based activity-recognition pipeline that turns raw video into real-time action labels with ≈96 % F1, served through FastAPI on AWS. I curated a 20 k-frame benchmark of cyclists, pedestrians, and motorbikes, then evaluated YOLOv5, Faster R-CNN, and EfficientDet under rain, glare, and night conditions to steer ADAS safety choices. Most recently, I combined YOLOv4, DeepSORT, and projective geometry in a Dockerised micro-service that measures vehicle speed from a single traffic-camera feed to within ±4 km/h, now powering a smart-city congestion pilot.",
+    "experiences": [
+      {
+        "id": "1",
+        "dates": "April 2022 - July 2022",
+        "type": "Full Time",
+        "position": "Machine Learning Engineer @ Fellowship.AI",
+        "bullets": [
+          "Developed and designed a pipeline that identifies one of 8 classes that incorporates different states of working out such body weight bearing, aerobic, stretching etc with 96.7 percent accuracy",
+          "Employed the use of Mediapipe or Blazepose that extract 3D coordinates per frame with normalizedv output between 0,1 and used these data points to train a Extra Trees classifier for activity classification.",
+          "Introduced RepNet for counting repetitions that enables more accurate recognition of any given activity",
+          "Performed testing to show difference between 2D and 3D Pose Estimation Model."
+        ]
+      },
+      {
+        "id": "2",
+        "dates": "March 2020 - March 2022",
+        "type": "Full Time",
+        "position": "Data Analyst @ Indian Institute of Technology, Delhi",
+        "bullets": [
+          "Performing Data Annotation on large text data pertaining to classifications of excise duty notifications based on industry.",
+          "Created and automated the process of extracting appropriate data based on new government policy/ changes using scripts.",
+          "Performed pre-processing on text data using Regex in extracting the changing import duty data and creating domains in compliance with policy changes."
+        ]
+      },
+      {
+        "id": "3",
+        "dates": "August 2021 - December 2024",
+        "type": "Full Time",
+        "position": "Teaching Assistant and Project Management @ Bowling Green State University, Ohio",
+        "bullets": [
+          "Techaning Faculty for CS 1010: Python Programming",
+          "TA for CS 3350: Data Structures,  CS 2010: C++ Programming, CS 4620: DBMS, CS 5120: Design and Analysis of Algorithms",
+          "Managing Students, Proctoring Exams, Holding Office Hours.",
+          "Developed an Arduino based robot - integral part of campus sustainability project for waste management. Increasing robot efficiency for waste collection from 82% to 95%. "
+        ]
+      }
+    ],
+    "education": {
+      "universityName": "University of Central Florida",
+      "universityDate": "2025 - Present",
+      "universityPara": "Masters in Computer Vision"
+    },
+    "languages": ["Javascript", "HTML5", "CSS", "Python"],
+    "frameworks": ["React", "Typescript", "NodeJs"],
+    "others": ["Figma", "AdobeXD", "AWS"]
+  }
+}
